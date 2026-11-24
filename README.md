@@ -1,3 +1,12 @@
+# as-libprisma
+
+Ansible Messenger — библиотека libprisma.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [TelegramMessenger/libprisma](https://github.com/TelegramMessenger/libprisma), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 This is a C++ porting of [prism.js](https://github.com/PrismJS/prism) library.
 The code depends on Boost.Regex, as it's a faster and more comprehensive than STD's.
 
